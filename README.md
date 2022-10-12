@@ -2,6 +2,6 @@
 
 ## Create the ini_setup.sh 
 
-''' bash
+``` bash
 bash init_setup.sh
-''''
+```
